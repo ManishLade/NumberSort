@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Rn59SJ7ifhTny7GthcKSUsBT2Rwnd1lHrCQQ+hcPmwl/wKiIPy6OIRIrX7VIxZ+N0jXnN3NbgscXuc7a9jF9Vg==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\NumberSort\\NumberSort\\NumberSort.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Manish\\.nuget\\packages\\csvhelper\\28.0.1\\csvhelper.28.0.1.nupkg.sha512",
+    "C:\\Users\\Manish\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
+    "C:\\Users\\Manish\\.nuget\\packages\\system.linq.async\\6.0.1\\system.linq.async.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
