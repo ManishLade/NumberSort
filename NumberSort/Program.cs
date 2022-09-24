@@ -1,6 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
-using NumberSort;
+
 using System.Diagnostics;
+using NumberSort;
 
 var path = Directory.GetCurrentDirectory();
 var inputCsvPath = Path.Combine(path, "PhoneNumbers-8-digits.csv");
@@ -23,4 +24,3 @@ Console.WriteLine($"Built in Quick sort execution time:{stopWatch.Elapsed.TotalS
 
 var outputFilePath = Path.Combine(path, "OUTPUT.csv");
 CsvHelperUtility.WriteOutPutCsv(outputFilePath, sortedArray);
-

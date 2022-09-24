@@ -1,7 +1,6 @@
-﻿namespace NumberSort
+﻿namespace NumberSort;
+
+public class PhoneNumbers
 {
-    public class PhoneNumbers
-    {
-        public int PhoneNumber { get; set; }
-    }
+    public int PhoneNumber { get; set; }
 }
